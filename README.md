@@ -8,4 +8,6 @@ triplet loss vẫn đang train....
 
 Nhận xét: Đây vẫn chưa là kết quả cuối cùng nhưng nhìn chung Các điểm dữ liệu tạo thành nhiều cụm tách biệt, cho thấy embedding học được đã phân biệt tốt các lớp/identity.
 
+[triple_loss}(https://drive.google.com/file/d/1tSa43fKr4XF6uKTLIk7h7a7xWvaoAlrY/view?usp=sharing)
+[full](https://drive.google.com/drive/folders/1AQDsrE14hGUjpVE5rsc1QUxjgrMFcL4j)
 
