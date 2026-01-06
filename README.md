@@ -3,6 +3,7 @@
 [Success Case 1 - Kaggle Notebook](https://www.kaggle.com/code/ngcnamkhc/success-case-1) và bộ
 [dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 
+
 [triple_loss](https://drive.google.com/file/d/1tSa43fKr4XF6uKTLIk7h7a7xWvaoAlrY/view?usp=sharing)
 
 
